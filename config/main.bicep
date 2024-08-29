@@ -5,7 +5,7 @@ param namePrefix string
 param location string = resourceGroup().location
 
 resource cosmos 'Microsoft.DocumentDB/databaseAccounts@2021-04-15' = {
-  name: '${namePrefix}cosmos'
+  name: '${namePrefix}juanp'
   kind: 'MongoDB'
   location: location
   properties: {

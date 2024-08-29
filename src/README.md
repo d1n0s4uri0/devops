@@ -6,7 +6,7 @@ This sample app was generated from the [Next.js example using MongoDB](https://g
 
 The project depends on a MongoDB database. You can [install locally](https://www.mongodb.com/docs/manual/administration/install-community/) or use a cloud based provider of your choosing. To start the project, you need to configure an environment variable to store the connection string for the database, install the NPM packages, and run the server.
 
-1. Create an environment variable
+1. Create an environment variable f
 
     ```bash
     # Linux or Mac
